@@ -49,7 +49,7 @@ Currently passionate about data visualisations, maps, writing software, embedded
   <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 </p>
 
-###
+#
 
 ## 📰 Articles
 <!-- BLOG-POST-LIST:START -->
