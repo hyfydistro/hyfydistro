@@ -51,6 +51,8 @@ Currently passionate about data visualisations, maps, writing software, embedded
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Intro to Naming Guidelines: Writing Meaningful Variable Names](https://dev.to/hyfydistro/intro-to-naming-guidelines-writing-meaningful-variable-names-13j5)
+- [Intro to Naming Guidelines: Writing Meaningful Variable Names](https://hyfydistro.medium.com/intro-to-naming-guidelines-writing-meaningful-variable-names-2e84f89a888e?source=rss-fccd8e017e72------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 
