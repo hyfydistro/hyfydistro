@@ -16,7 +16,7 @@ Chron job update scheduler time: ??
 
 -->
 
-### 🎸 HYFYDISTRO ⚡
+## 🎸 HYFYDISTRO ⚡
 
 **`Mostly a Product Engineeer and a bit of a Comic Artist`**
 
@@ -28,9 +28,8 @@ Currently passionate about data visualisations, maps, writing software, embedded
   <img src="llama-eating-ramen.gif" alt="animated" />
 </p>
 
-#
 
-### 📚 Technology Stack
+## 📚 Technology Stack
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -48,9 +47,8 @@ Currently passionate about data visualisations, maps, writing software, embedded
 <img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 
-#
 
-### 📰 Articles
+## 📰 Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
