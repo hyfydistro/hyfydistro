@@ -1,4 +1,4 @@
-name: latest blog post workflow
+name: Blog Post Workflow
 on: 
     schedule:
         - cron: '0 * * * *'
@@ -7,8 +7,8 @@ jobs:
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
+            - uses: actions/checkout@v3
+            - uses: gautamkrishnar/blog-post-workflow@1.8.1
               with: 
                 max_post_count: "10"
-                feed_list: "https://dev.to/feed/hyfydistro , https://hyfydistro.medium.com/feed ,  "
+                feed_list: "https://dev.to/feed/hyfydistro , https://hyfydistro.medium.com/feed"
