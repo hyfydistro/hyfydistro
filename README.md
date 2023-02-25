@@ -1,4 +1,10 @@
-### Hi there 👋
+### 🎸 HYFYDISTRO
+
+**`Mostly a Product Engineeer and a bit of a Comic Artist`**
+
+An enthusiastic Software Engineer with a zeal for aesthetically appealing and unqiue designs.
+
+Currently passionate about data visualisations, maps, writing software, embedded system, articles and multi-medias.
 
 <!--
 **hyfydistro/hyfydistro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
