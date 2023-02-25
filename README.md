@@ -6,7 +6,9 @@ An enthusiastic Software Engineer with a zeal for aesthetically appealing and un
 
 Currently passionate about data visualisations, maps, writing software, embedded system, articles and multi-medias.
 
-![image](https://user-images.githubusercontent.com/24542308/221367556-3a2f1e93-7328-418f-b81f-d16b17ea4ac6.png)
+<p align="center">
+  <img src="llama-eating-ramen.gif" alt="animated" />
+</p>
 
 <!--
 **hyfydistro/hyfydistro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
