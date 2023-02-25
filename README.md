@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Chron job update scheduler time: ??
+Chron job update scheduler time: every 1 month - "0 0 1 * *"
 
 -->
 
