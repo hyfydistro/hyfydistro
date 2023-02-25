@@ -49,9 +49,7 @@ Currently passionate about data visualisations, maps, writing software, embedded
 
  <br /> 
 
-#
-
-## 📰 Articles
+### 📰 Articles
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
