@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Chron job update scheduler time: ??
+
 -->
 
 ### 🎸 HYFYDISTRO ⚡
@@ -47,7 +50,8 @@ Currently passionate about data visualisations, maps, writing software, embedded
 -
 
 ### Articles
--
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Social Medias
 -
