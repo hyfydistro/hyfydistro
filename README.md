@@ -28,6 +28,8 @@ Currently passionate about data visualisations, maps, writing software, embedded
   <img src="llama-eating-ramen.gif" alt="animated" />
 </p>
 
+#
+
 ### 📚 Technology Stack
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -45,6 +47,8 @@ Currently passionate about data visualisations, maps, writing software, embedded
 <img align="left" alt="D3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+
+#
 
 ### 📰 Articles
 <!-- BLOG-POST-LIST:START -->
